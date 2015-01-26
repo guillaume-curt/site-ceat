@@ -1,0 +1,108 @@
+@-webkit-keyframes textAnim{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+@-moz-keyframes textAnim{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+@-ms-keyframes textAnim{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+@-o-keyframes textAnim{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+} 
+@keyframes textAnim{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}    
+
+.textAnim {
+     -webkit-animation: textAnim 2s 4;
+        -moz-animation: textAnim 2s 4;
+         -ms-animation: textAnim 2s 4;
+          -o-animation: textAnim 2s 4;
+             animation: textAnim 2s 4;
+}
+
+@-webkit-keyframes titreAnim{
+    from {
+        margin-right: -57em;
+        opacity: 0;
+    }
+    to {
+        margin-right: 0;
+        opacity: 1;
+    }
+}
+@-moz-keyframes titreAnim{
+    from {
+        margin-right: -57em;
+        opacity: 0;
+    }
+    to {
+        margin-right: 0;
+        opacity: 1;
+    }
+}
+@-ms-keyframes titreAnim{
+    from {
+        margin-right: -57em;
+        opacity: 0;
+    }
+    to {
+        margin-right: 0;
+        opacity: 1;
+    }
+}
+@-o-keyframes titreAnim{
+    from {
+        margin-right: -57em;
+        opacity: 1;
+    }
+    to {
+        margin-right: 0;
+        opacity: 0;
+    }
+} 
+@keyframes titreAnim{
+    from {
+        margin-right: -57em;
+        opacity: 0;
+    }
+    to {
+        margin-right: 0;
+        opacity: 1;
+    }
+}
+
+.titreAnim {
+    -webkit-animation: titreAnim 0.5s linear;
+        -moz-animation: titreAnim 0.5s linear;
+         -ms-animation: titreAnim 0.5s linear;
+          -o-animation: titreAnim 0.5s linear;
+             animation: titreAnim 0.5s linear;
+}
+
