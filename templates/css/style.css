@@ -368,9 +368,11 @@ td {
     border-bottom: 4px solid #B3D88C;
 }
 .navbar-default.navbar-scroll .navbar-brand {
+    margin-top: -100px !important;
     font-size: 28px;
     /* color: #5f87a0; */
 }
+
 .navbar-default.navbar-scroll .navbar-brand:focus, .navbar-default.navbar-scroll .navbar-brand:hover {
     color: #282828;
 }
