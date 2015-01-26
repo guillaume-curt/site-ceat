@@ -1,11 +1,12 @@
 $(document).ready(function(){
 
+    $().timelinr({
+        arrowKeys: 'true',
+        orientation: 'horizontal'
+    })
+
   /* parallax background */
   $('.promo').parallax();
-  $('.promo-alt').parallax();
-  $('.promo-02').parallax();
-  $('.promo-03').parallax();
-  $('.promo-04').parallax();
 
   /* nice scroll */
   $( 'html' ).niceScroll({
