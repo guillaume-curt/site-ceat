@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-{include file="common/header.tpl" title=test name=test}
+{include file="common/header.tpl" title="Accueil"}
   </head>
   <body id="page-home">
 
-  {include file="common/navigation.tpl" title=test name=test}
-  {include file="content/accueil/carousel.tpl" title=test name=test}
+{include file="common/navigation.tpl"}
+{include file="content/accueil/carousel.tpl"}
 
 {include file="content/accueil/qui-sommes-nous.tpl"} 
 {include file="content/accueil/historique.tpl"}
