@@ -2,10 +2,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="currentPage" content="{$page}">
     <meta name="description" content="">
     <meta name="keywords" content="">
-    <meta name="author" content="ceat-electronique.fr">
-    <title>{$title} - {$name}</title>
+    <meta name="author" content="{#author#}">
+    <meta name="contact" content="{#contact#}">
+    <meta name="updated" content="{#updated#}">
+    <meta name="created" content="{#created#}">
+
+    <title>{#site_name#} - {$name}</title>
 
     <link href="{$template_url}/css/bootstrap.min.css" rel="stylesheet">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700,600" rel="stylesheet" type="text/css">
@@ -22,4 +27,3 @@
       <script src="js/respond.min.js"></script>
     <![endif]-->
 {/strip}
-

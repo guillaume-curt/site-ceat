@@ -1,4 +1,5 @@
 {strip}
+{config_load file="setup.conf"}
 <!DOCTYPE html>
 <html lang="fr">
   <head>

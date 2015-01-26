@@ -9,4 +9,3 @@
     <script src="{$template_url}/js/script.js"></script>
     <script src="{$template_url}/js/demo.js"></script>
 {/strip}
-

@@ -28,9 +28,20 @@
                 <input type="text" class="form-control input-lg" id="phone" placeholder="T&eacute;l&eacute;phone: " required>
                 <span class="form-focus-icon focus-icon-phone"></span>
               </div>
+
+              <div class="form-group">
+                <label for="motif" class="sr-only">Motif</label>
+                <select class="form-control" id="motif" >
+                  <option selected="true" disabled="disabled">Motif de la demande</option>
+                  <option>Commerciale</option>
+                  <option>Technique</option>
+                  <option>Emplois et carrières</option>
+                </select>
+              </div>
+
               <div class="form-group">
                 <label for="message" class="sr-only">Message</label>
-                <textarea class="form-control input-lg" id="message" placeholder="Message: " rows="5" required></textarea>
+                <textarea class="form-control input-lg" id="message" placeholder="Message: " rows="3" required></textarea>
                 <span class="form-focus-icon focus-icon-message"></span>
               </div>
               <button type="submit" class="btn btn-lucky btn-lg pull-right"><i class="fa fa-envelope-o"></i> Envoyer</button>
