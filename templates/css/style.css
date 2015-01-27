@@ -544,14 +544,18 @@ td {
     background-image: none !important;
 }
 
+#informations {
+    padding-bottom: 2em;
+}
+
 #informations, #activites, {
-    background : #eeeeee;
+    background : #eeeeee;    
 }
 
 
 #activites, #activites-carousel, #informations {
     width: 100%;
-    background-color: #ececec;
+    background-color: #ececec;    
 }
 
 #intertek img {
@@ -1272,6 +1276,9 @@ td {
     text-align: center;
 }
 
+.carousel-indicators li {
+    border: 1px solid #5D87A1;
+}
 
 
 
@@ -1342,7 +1349,7 @@ td {
     transform: scale(0.7,0.7);
 }
 #time-h #issues li h1 {
-    color: #ffcc00;
+    color: #5D87A1;
     font-size: 48px;
     margin: 20px 0;
 }
