@@ -34,7 +34,7 @@
               </div>
           </div>
           <div class="col-sm-8">
-              <div class="col-sm-2 col-sm-offset-1">
+              <div class="col-sm-2">
                 <div class="footer-widget">
                   <div class="widget-header">
                     <h3>Informations</h3>

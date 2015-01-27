@@ -1313,7 +1313,12 @@ td {
 .carousel-indicators li {
     border: 1px solid #5D87A1;
 }
-
+#img-partenaire {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 60%;
+}
 
 
 #time-h #timeline {
