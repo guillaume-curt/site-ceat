@@ -386,7 +386,7 @@ td {
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
     position: relative;
     background-color: transparent;
-    color: #fff;
+    color: #5B87A3;
 }
 .navbar-default .navbar-nav>.active>a::after, .navbar-default .navbar-nav>.active>a:hover::after, .navbar-default .navbar-nav>li>a:focus::after, .navbar-default .navbar-nav>li>a:hover::after {
     content: '';
