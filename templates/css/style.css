@@ -532,7 +532,7 @@ td {
     line-height: 16px;
     padding-left: 26%;
     /* padding-right: 26% */}
-#header .carousel-control .fa-angle-left, #header .carousel-control .fa-angle-right {
+.carousel-control .fa-angle-left, .carousel-control .fa-angle-right {
     position: absolute;
     top: 50%;
     width: 30px;
@@ -1328,6 +1328,10 @@ td {
 }
 .service-content h3 {
     font-size: 1.5em;
+}
+.carousel-indicators li,
+.carousel-indicators li .active {
+    background-color: #5D87A1!important;
 }
 
 
