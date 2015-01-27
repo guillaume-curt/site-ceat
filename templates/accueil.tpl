@@ -18,7 +18,10 @@
 {include file="content/accueil/contact.tpl"}
 {include file="content/accueil/partenaires.tpl"} 
 
-{include file="common/copyright.tpl"}
+{include file="common/copyright-mobile.tpl"}
+{include file="common/copyright-desktops.tpl"}
+{include file="common/copyright-tablet.tpl"}
+{include file="common/copyright-desktops-large.tpl"}
 {include file="common/footer.tpl"}
   </body>
 </html>
