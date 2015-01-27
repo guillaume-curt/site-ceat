@@ -1326,6 +1326,9 @@ td {
 #intertek {
     border-left: 1px solid #5f87a0;
 }
+.service-content h3 {
+    font-size: 1.5em;
+}
 
 
 #time-h #timeline {

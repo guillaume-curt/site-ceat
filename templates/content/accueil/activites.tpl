@@ -21,7 +21,7 @@
 
                 <div class="col-md-5 col-sm-5 col-md-push-1 col-md-push-1">
                     <div class="service-content">
-                        <h3>Friendly</h3>
+                        <h3>Réparations</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
                         <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
                     </div>
@@ -29,7 +29,7 @@
 
                 <div class="col-md-5 col-sm-5 col-md-push-1 col-md-push-1">
                     <div class="service-content">
-                        <h3>Friendly</h3>
+                        <h3>Service client</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
                         <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
                     </div>
@@ -45,7 +45,7 @@
 
                 <div class="col-md-5 col-sm-5 col-md-push-1 col-md-push-1">
                     <div class="service-content">
-                        <h3>Friendly</h3>
+                        <h3>Systèmes informatiques</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
                         <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
                     </div>
@@ -53,7 +53,7 @@
 
                 <div class="col-md-5 col-sm-5 col-md-push-1 col-md-push-1">
                     <div class="service-content">
-                        <h3>Friendly</h3>
+                        <h3>Formation</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
                         <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
                     </div>
@@ -69,7 +69,7 @@
 
                 <div class="col-md-5 col-sm-5 col-md-push-1 col-md-push-1">
                     <div class="service-content">
-                        <h3>Friendly</h3>
+                        <h3>Logistique</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
                         <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
                     </div>
@@ -77,7 +77,7 @@
 
                 <div class="col-md-5 col-sm-5 col-md-push-1 col-md-push-1">
                     <div class="service-content">
-                        <h3>Friendly</h3>
+                        <h3>Recherche et développement</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
                         <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
                     </div>
