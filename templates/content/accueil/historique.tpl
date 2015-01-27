@@ -17,22 +17,22 @@
 								<li id="1977">
 									<img src="{$template_url}/img/1.png" width="256" height="256" />
 									<h1>1977</h1>
-									<p>Donec semper quam scelerisque tortor dictum gravida. In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget neque eu eros interdum malesuada non vel leo. Sed fringilla porta ligula.</p>
+									<p>Création de l’entreprise par Gilbert Vigneron (actuel dirigeant).</p>
 								</li>
 								<li id="1985">
 									<img src="{$template_url}/img/2.png" width="256" height="256" />
 									<h1>1985</h1>
-									<p>Donec semper quam scelerisque tortor dictum gravida. In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget neque eu eros interdum malesuada non vel leo. Sed fringilla porta ligula.</p>
+									<p>Début du partenariat avec SAMSUNG France.</p>
 								</li>
 								<li id="1998">
 									<img src="{$template_url}/img/3.png" width="256" height="256" />
 									<h1>1998</h1>
-									<p>Donec semper quam scelerisque tortor dictum gravida. In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget neque eu eros interdum malesuada non vel leo. Sed fringilla porta ligula.</p>
+									<p>C.E.A.T. Electronique devient le centre national de réparation de téléphones mobiles pour SAMSUNG France.</p>
 								</li>
 								<li id="2004">
 									<img src="{$template_url}/img/4.png" width="256" height="256" />
 									<h1>2004</h1>
-									<p>Donec semper quam scelerisque tortor dictum gravida. In hac habitasse platea dictumst. Nam pulvinar, odio sed rhoncus suscipit, sem diam ultrices mauris, eu consequat purus metus eu velit. Proin metus odio, aliquam eget molestie nec, gravida ut sapien. Phasellus quis est sed turpis sollicitudin venenatis sed eu odio. Praesent eget neque eu eros interdum malesuada non vel leo. Sed fringilla porta ligula.</p>
+									<p>Premières reparations de Notebooks SAMSUNG.</p>
 								</li>			
 							</ul>
 
