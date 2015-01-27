@@ -11,7 +11,7 @@
         </div>
         <!-- break -->
         <div class="row">
-          <div class="col-md-6 col-sm-6">
+          <div class="col-md-6 col-sm-12">
             <form role="form" class="contact-form">
               <div class="form-group">
                 <label for="name" class="sr-only">Nom</label>
@@ -44,11 +44,11 @@
                 <textarea class="form-control input-lg" id="message" placeholder="Message: " rows="3" required></textarea>
                 <span class="form-focus-icon focus-icon-message"></span>
               </div>
-              <button type="submit" class="btn btn-lucky btn-lg pull-right"><i class="fa fa-envelope-o"></i> Envoyer</button>
+              <button type="submit" class="btn btn-lucky btn-lg"><i class="fa fa-envelope-o"></i> Envoyer</button>
             </form>
           </div>
 
-    <div class="col-md-6" id="batiment">
+    <div class="col-md-6 col-sm-12" id="batiment">
         <img src="{$template_url}/img/batiment.png" class="img-responsive">
     </div>
 

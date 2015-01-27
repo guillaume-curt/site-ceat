@@ -215,13 +215,22 @@
     color: #fff;
 }
 }
+@media screen and (min-width:993px) and (max-width:1081px) {
+.footer #coordonnees p {
+    font-size: 11px;
+}
+}
 @media screen and (min-width:1082px) and (max-width:1200px) {
 .footer #coordonnees p {
     font-size: 13px;
 }
 }
-@media screen and (min-width:993px) and (max-width:1081px) {
-.footer #coordonnees p {
-    font-size: 11px;
+@media screen and (max-width:991px) {
+#batiment{
+    margin-top: 50px;
+}
+#intertek {
+    border-left: 1px;
+    margin-top: 40px;
 }
 }

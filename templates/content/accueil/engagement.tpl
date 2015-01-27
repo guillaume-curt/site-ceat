@@ -1,6 +1,6 @@
 {strip}
     <!-- begin:engagement -->
-    <div id="engagements" style="padding-bottom: 20px;">
+    <div id="engagements" style="padding-bottom: 40px;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -12,7 +12,7 @@
                                 <p>Société certifié : ISO 9001 et 14001 et OHSAS18001</p>
                                 <p>La satisfaction de nos clients dépend de notre aptitude à comprendre leurs attentes et y répondre rapidement et efficacement en leur fournissant un service à valeur ajoutée.</p>
                             </div>
-                            <div class="col-md-6" id="intertek" style="border-left: 1px solid #5f87a0">
+                            <div class="col-md-6" id="intertek">
                                 <img src="{$template_url}/img/logo-normes.png">
                             </div>
                             </div>
