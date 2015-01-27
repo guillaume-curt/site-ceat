@@ -193,7 +193,7 @@
 }
 }
 @media screen and (min-width:1200px) {
-.footer .footer-widget .widget-header h3 {
+.footer .footer-widget .widget-header a {
     display: block;
     margin-bottom: 30px;
     text-transform: uppercase;
@@ -206,7 +206,7 @@
 .footer #coordonnees img {
     margin-left: 60px;
 }
-.footer .footer-widget .widget-header h3 {
+.footer .footer-widget .widget-header a {
     display: block;
     margin-bottom: 30px;
     text-transform: uppercase;
