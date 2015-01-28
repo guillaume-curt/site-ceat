@@ -23,7 +23,9 @@
                     <div class="service-content">
                         <h3>Réparations</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
-                        <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
+                        <span class="service-icon"> 
+                            <img src="{$template_url}/img/icon1.png">
+                        </span>
                     </div>
                 </div>
 
@@ -31,7 +33,9 @@
                     <div class="service-content">
                         <h3>Service client</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
-                        <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
+                        <span class="service-icon">
+                            <img src="{$template_url}/img/icon2.png">
+                        </span>
                     </div>
                 </div>
 
@@ -47,7 +51,9 @@
                     <div class="service-content">
                         <h3>Systèmes informatiques</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
-                        <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
+                        <span class="service-icon"> 
+                            <img src="{$template_url}/img/icon3.png">                        
+                        </span>
                     </div>
                 </div>
 
@@ -55,7 +61,9 @@
                     <div class="service-content">
                         <h3>Formation</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
-                        <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
+                        <span class="service-icon">
+                            <img src="{$template_url}/img/icon4.png">  
+                        </span>
                     </div>
                 </div>
 
@@ -71,7 +79,9 @@
                     <div class="service-content">
                         <h3>Logistique</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
-                        <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
+                        <span class="service-icon"> 
+                            <img src="{$template_url}/img/icon5.png">  
+                        </span>
                     </div>
                 </div>
 
@@ -79,7 +89,9 @@
                     <div class="service-content">
                         <h3>Recherche et développement</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation</p>
-                        <span class="service-icon"> <i class="fa fa-heart-o"></i></span>
+                        <span class="service-icon"> 
+                            <img src="{$template_url}/img/icon6.png">  
+                        </span>
                     </div>
                 </div>
 
