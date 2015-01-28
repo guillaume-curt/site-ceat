@@ -1,7 +1,7 @@
 body {
     /* padding-top: 100px; */
     margin: 0;
-    padding: 100px 0 0 0;
+    padding: 94px 0 0 0;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     line-height: 26px;
@@ -530,7 +530,8 @@ td {
     font-size: 13px;
     line-height: 16px;
     padding-left: 26%;
-    /* padding-right: 26% */}
+    /* padding-right: 26% */
+}
 .carousel-control .fa-angle-left, .carousel-control .fa-angle-right {
     position: absolute;
     top: 50%;
@@ -1262,8 +1263,7 @@ td {
     font-style: italic;
 }
 .footer #coordonnees {
-    margin-bottom: 1em;
-    
+    margin-bottom: 1em;    
     text-align: center;
 }
 .footer #coordonnees img {
@@ -1331,6 +1331,77 @@ td {
 .carousel-indicators li,
 .carousel-indicators li .active {
     background-color: #5D87A1!important;
+}
+
+/* ------------------------------Engagement------------------------------ */
+#engagements {
+    width: 100%;
+    background-color: #ececec;
+    height: auto;
+}
+.page-title-engagement {
+    display: block;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+#engagements .page-title-engagement h1 {
+    position: relative;
+    font-size: 40px;
+    line-height: 44px;
+    font-weight: 300;
+    text-align: left;
+    color: #5f87a0;
+    font-weight: 500;
+}
+div.engagement-page-title {
+    display: block;
+    padding: 10px 0;
+}
+#principe h1 {
+    position: relative;
+    color: #5f87a0;
+}
+div.engagement-page-title h2 {
+    position: relative;
+    color: black;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+#principe div.engagement-page-title hr,
+#environnement div.engagement-page-title hr {
+    background-color: #5B87A3;
+    height: 1px;
+}
+#principe {
+    background-color: #ececec;
+}
+#principe .engagement-page-title #logo-main img {
+    height: 280px;
+    margin: 0 auto;
+    display: block;
+}
+#principe .engagement-page-title #generaux {
+    padding-left: 20px;
+    padding-right: 20px;
+/*    border-left: 1px solid #5f87a0; */
+}
+#qualite {
+    width: 100%;
+    background-color: white;
+    height: auto;
+}
+#qualite .engagement-page-title #quality {
+    padding-left: 0px;
+}
+#environnement {
+    width: 100%;
+    background-color: #ececec;
+    height: auto;
+}
+#environnement div.engagement-page-title #ecology img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -1456,15 +1527,4 @@ td {
     opacity: 0.2;
 }
 
-<!-- Engagement -->
-#principe .engagement-page-title {
-    display: block;
-    padding: 20px 0;
-    margin-bottom: 60px;
-}
 
-#principe .container .row div .page-title h2{
-    text-align: left;
-}
-
-#principe > div > div > div > div

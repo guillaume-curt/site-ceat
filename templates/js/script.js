@@ -1,9 +1,14 @@
 $(document).ready(function(){
+    var currentPage = $('meta[name="currentPage"]').attr("content");
 
-    $().timelinr({
-        arrowKeys: 'true',
-        orientation: 'horizontal'
-    })
+    
+    if(currentPage=="informations" || currentPage=="accueil") {
+        $().timelinr({
+            arrowKeys: 'true',
+            orientation: 'horizontal'
+        })
+    }
+
 
   /* parallax background */
   $('.promo').parallax();
