@@ -1455,16 +1455,3 @@ td {
 #prev.disabled {
     opacity: 0.2;
 }
-
-<!-- Engagement -->
-#principe .engagement-page-title {
-    display: block;
-    padding: 20px 0;
-    margin-bottom: 60px;
-}
-
-#principe .container .row div .page-title h2{
-    text-align: left;
-}
-
-#principe > div > div > div > div
