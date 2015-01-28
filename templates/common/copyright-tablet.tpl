@@ -81,7 +81,7 @@
     {/*}
                 </div>
               </div>
-              <!-- break -->
+              <!-- break 
               <div class="col-sm-2">
                 <div class="footer-widget">
                   <div class="widget-header">
@@ -96,6 +96,8 @@
     {/*}
                 </div>
               </div>
+              -->
+              
               <!-- break -->
               <div class="col-sm-2">
                 <div class="footer-widget">
