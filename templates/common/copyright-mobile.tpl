@@ -37,7 +37,7 @@
               <div class="col-xs-2 col-xs-offset-1">
                 <div class="footer-widget">
                   <div class="widget-header">
-                    <h3>Informations</h3>
+                    <a href="#informations" class="menus">Informations</a>
                   </div>
 
     {*}
@@ -53,7 +53,7 @@
               <div class="col-xs-2">
                 <div class="footer-widget">
                   <div class="widget-header">
-                    <h3>Activit&eacute;s</h3>
+                    <a href="#activites" class="menus">Activit&eacute;s</a>
                   </div>
 
     {*}
@@ -69,7 +69,7 @@
               <div class="col-xs-2">
                 <div class="footer-widget">
                   <div class="widget-header">
-                    <h3>Engagements</h3>
+                    <a href="#engagements" class="menus">Engagements</a>
                   </div>
 
     {*}
@@ -85,7 +85,7 @@
               <div class="col-xs-2">
                 <div class="footer-widget">
                   <div class="widget-header">
-                    <h3>Ressources Humaines</h3>
+                    <a href="#ressources-humaines" class="menus">Ressources Humaines</a>
                   </div>
     {*}
                   <ul class="list-unstyled">
@@ -100,7 +100,7 @@
               <div class="col-xs-2">
                 <div class="footer-widget">
                   <div class="widget-header">
-                    <h3>Contact</h3>
+                    <a href="#contact" class="menus">Contact</a>
                   </div>
 
     {*}

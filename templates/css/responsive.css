@@ -161,7 +161,7 @@
     width: auto;
     text-align: center;
 }    
-.footer .footer-widget .widget-header h3 {
+.footer .footer-widget .widget-header a {
     display: block;
     margin-bottom: 30px;
     text-transform: uppercase;
