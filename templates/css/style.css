@@ -562,6 +562,7 @@ td {
     width: 100%;
     background-color: #ececec;
     height: auto;
+    padding-bottom: 20px;
 }
 
 #intertek img {
@@ -1050,7 +1051,7 @@ td {
 }
 #contact {
     width: 100%;
-    padding: 0px 0 100px;
+    padding: 0px 0 0px;
     background-color: #eeeeee;
 }
 #map {
@@ -1334,6 +1335,11 @@ td {
 .carousel-indicators li,
 .carousel-indicators li .active {
     background-color: #5D87A1!important;
+}
+#qualite-accueil {
+    font-size: 30px;
+    font-weight: 500;
+    color: black;
 }
 
 
