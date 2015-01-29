@@ -4,7 +4,7 @@
       <div class="container-fluid">
         <div class="row">
           <!-- break -->
-          <div class="col-xs-6 col-xs-offset-3">
+          <div class="col-xs-12">
                 <div class="row">      
                     <div id="coordonnees-portable" class="col-xs-12">
                         <img src="{$template_url}/img/icon-green-1.png" class="icon-green img-responsive">
