@@ -233,4 +233,8 @@
     border-left: 1px;
     margin-top: 40px;
 }
+#map #adresse-map {
+    border-left: 0px;
+    margin-top: 20px;
+}
 }
