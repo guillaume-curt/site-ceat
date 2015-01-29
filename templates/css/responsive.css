@@ -2,6 +2,12 @@
     .footer .footer-widget-logo {
     text-align: center;
 }
+    .footer {
+    width: 100%;
+    height: auto;
+    background-color: #5d87a1;
+    padding: 1em 0px 0px 0px;
+}
 }
 
 @media (min-width:768px) {
