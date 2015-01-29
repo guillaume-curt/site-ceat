@@ -8,6 +8,11 @@ $(document).ready(function(){
             orientation: 'horizontal'
         })
     }
+    if(currentPage=="activites") {
+      $(function() {
+        imageHoverAnimator.init();
+      });     
+    }
 
 
   /* parallax background */
@@ -44,6 +49,18 @@ $(document).ready(function(){
   $('.navbar-collapse ul li a').click(function() {
       $('.navbar-toggle:visible').click();
   });
-
-
+    
+    var imageHoverAnimator = {
+        imgOver : $("img.hover"),
+        init: function() {
+            $(imageHoverAnimator.imgOver).mouseover(function () {
+                    var url = $(this).attr('src').replace('.png', '-hover.png')
+                    $(this).attr('src', url);
+                }).mouseout(function () {
+                    var url = $(this).attr('src').replace('-hover.png', '.png')
+                    $(this).attr('src', url);
+            });
+        }
+    };
+    
 });
