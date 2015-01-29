@@ -19,11 +19,11 @@
                         </div>
                     </div>
                     <div class="visible-xs-* visible-sm-* hidden-md hidden-lg">
-                        <div class="col-sm-2 col-sm-offset-3 col-xs-3">
+                        <div class="col-sm-2 col-sm-offset-3 col-xs-2 col-xs-offset-2">
                             <img src="{$template_url}/img/icon-map/plan.png" class="img-responsive">
                         </div>
                     </div>  
-                    <div class="col-md-9 col-sm-4">
+                    <div class="col-md-9 col-sm-4 col-xs-7">
                         <h2>Nous trouver</h2>
                     </div>
                 </div>
@@ -34,11 +34,11 @@
                         </div>
                     </div>
                     <div class="visible-xs-* visible-sm-* hidden-md hidden-lg">
-                        <div class="col-sm-2 col-sm-offset-3 col-xs-3">
+                        <div class="col-sm-2 col-sm-offset-3 col-xs-2 col-xs-offset-2">
                             <img src="{$template_url}/img/icon-map/localisation.png" class="img-responsive">
                         </div>
                     </div>  
-                    <div class="col-md-9 col-sm-4">
+                    <div class="col-md-9 col-sm-4 col-xs-7">
                         <p>Rue du 19 Mars 1962, 21600 Longvic</p>
                     </div>
                 </div>
@@ -49,11 +49,11 @@
                         </div>
                     </div>
                     <div class="visible-xs-* visible-sm-* hidden-md hidden-lg">
-                        <div class="col-sm-2 col-sm-offset-3 col-xs-3">
+                        <div class="col-sm-2 col-sm-offset-3 col-xs-2 col-xs-offset-2">
                             <img src="{$template_url}/img/icon-map/telephone.png" class="img-responsive">
                         </div>
                     </div>  
-                    <div class="col-md-9 col-sm-4">
+                    <div class="col-md-9 col-sm-4 col-xs-7">
                         <p>03 80 46 01 34</p>
                     </div>
                 </div>
@@ -64,11 +64,11 @@
                         </div>
                     </div>
                     <div class="visible-xs-* visible-sm-* hidden-md hidden-lg">
-                        <div class="col-sm-2 col-sm-offset-3 col-xs-3">
+                        <div class="col-sm-2 col-sm-offset-3 col-xs-2 col-xs-offset-2">
                             <img src="{$template_url}/img/icon-map/lettre.png" class="img-responsive">
                         </div>
                     </div>  
-                    <div class="col-md-9 col-sm-4">
+                    <div class="col-md-9 col-sm-4 col-xs-7">
                         <p>contact@ceat-electronique.fr</p>
                     </div>
                 </div>
@@ -79,11 +79,11 @@
                         </div>
                     </div>
                     <div class="visible-xs-* visible-sm-* hidden-md hidden-lg">
-                        <div class="col-sm-2 col-sm-offset-3 col-xs-3">
+                        <div class="col-sm-2 col-sm-offset-3 col-xs-2 col-xs-offset-2">
                             <img src="{$template_url}/img/icon-map/earth.png" class="img-responsive">
                         </div>
                     </div>              
-                    <div class="col-md-9 col-sm-4">
+                    <div class="col-md-9 col-sm-4 col-xs-7">
                         <p>ceat-electronique.fr</p>
                     </div>
                 </div>
