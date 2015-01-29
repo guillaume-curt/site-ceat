@@ -1403,7 +1403,21 @@ div.engagement-page-title h2 {
     margin-left: auto;
     margin-right: auto;
 }
-
+/* ------------------------------Activités------------------------------ */
+#activites-ceat {
+    width: 100%;
+    background-color: white;
+    height: auto;
+}
+#activites-ceat .engagement-page-title h1 {
+position: relative;
+font-size: 40px;
+line-height: 44px;
+font-weight: 300;
+text-align: left;
+color: #5f87a0;
+font-weight: 500;
+}
 
 #time-h #timeline {
     width: 800px;
