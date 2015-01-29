@@ -20,6 +20,7 @@
 
 {include file="common/copyright-desktops.tpl"}
 {include file="common/copyright-tablet.tpl"}
+{include file="common/copyright-mobile.tpl"}
 {include file="common/copyright-desktops-large.tpl"}
 {include file="common/footer.tpl"}
   </body>

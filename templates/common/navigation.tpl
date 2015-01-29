@@ -22,7 +22,7 @@
           <ul class="nav navbar-nav">
 {foreach from=$items key=k item=item}
 {$identifier = $item|replace:$find:$repl|lower|strip:'-'}
-            <li><a href="#{$identifier}" {if $k==0}style="display:none"{/if}title="{$item}">{$item}</a></li>
+            <li><a href="#{$identifier}" {if $k==0}class="visible-xs-* hidden-sm hidden-md hidden-lg"{/if}title="{$item}">{$item}</a></li>
 {/foreach}
           </ul>
         </div>
