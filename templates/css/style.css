@@ -1484,6 +1484,39 @@ font-weight: 500;
     text-align: left;
     font-size: 30px;
 }
+/* ------------------------------RH------------------------------ */
+#rh {
+    background-color: #ececec;
+}
+#rh .engagement-page-title h1 {
+    position: relative;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: left;
+    color: #5f87a0;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+#offres .engagement-page-title hr {
+    background-color: #5B87A3;
+    height: 1px;
+}
+#offres #panel,#flip {
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+    border:solid 1px black;
+}
+#offres #panel {
+    padding: 50px;
+    display: none;
+}
+#offres #flip #plus {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-top: 10px;
+}
 
 
 #time-h #timeline {

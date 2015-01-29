@@ -1,24 +1,50 @@
 {strip}
-    <!-- begin:qualite -->
-    <div id="qualite" style="padding-bottom: 40px;">
+    <!-- begin:rh -->
+    <div id="rh">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="engagement-page-title">
-                        <h2>Volet qualité</h2>
-                            <div style="padding: 20px 0 20px 0;">
-                            <div class="col-md-6" id="quality">
-                                <p>Société certifié : ISO 9001 et 14001 et OHSAS18001</p>
-                                <p>La satisfaction de nos clients dépend de notre aptitude à comprendre leurs attentes et y répondre rapidement et efficacement en leur fournissant un service à valeur ajoutée.</p>
-                            </div>
-                            <div class="col-md-6" id="intertek">
-                                <img src="{$template_url}/img/logo-normes.png" class="img-responsive">
-                            </div>
-                            </div>
+                        <h1>Ressources Humaines</h1>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- end:qualite -->
+    <!-- end:rh -->
+    <!-- begin:offres -->
+    <div id="offres" style="padding-bottom: 40px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="engagement-page-title">
+                   <h2>Nous rejoindre</h2>
+                   <hr>
+                   <h2>Offres en cours</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-sm-12" id="flip">
+                <div class="col-md-2 col-sm-6" style="text-align: left;">
+                    <p>Poste :</p>
+                    <p>Contrat :</p>
+                </div>
+                <div class="col-md-4 col-sm-6" style="text-align: left;">
+                    <p>Développeur Android</p>
+                    <p>CDD</p>
+                </div>
+                <div class="col-md-2 col-sm-6" style="text-align: left;">
+                    <p>Déposée :</p>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                <img src="{$template_url}/img/plus.png" class="img-responsive" id="plus">                                 </div>
+            </div>
+            <div class="col-md-12 col-sm-12" id="panel">Hello world!</div>
+        </div>
+    </div>        
+    <!-- end:offres -->
+
+                          
+                                            
 {strip}

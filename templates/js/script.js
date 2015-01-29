@@ -13,6 +13,14 @@ $(document).ready(function(){
         imageHoverAnimator.init();
       });     
     }
+    
+    if(currentPage=="rh") {
+        $(function(){
+          $("#flip").click(function(){
+            $("#panel").slideToggle("slow");
+          });
+        });     
+    }
 
 
   /* parallax background */
