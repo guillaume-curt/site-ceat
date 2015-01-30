@@ -1,17 +1,4 @@
 {strip}
-    <!-- begin:rh -->
-    <div id="rh">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="engagement-page-title">
-                        <h1>Ressources Humaines</h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- end:rh -->
     <!-- begin:offres -->
     <div id="offres" style="padding-bottom: 40px;">
         <div class="container">

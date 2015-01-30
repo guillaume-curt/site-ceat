@@ -35,7 +35,7 @@ $smarty->assign('navItems', array(  'Accueil'=> array(),
                                     'Informations' => array(),
                                     'Activités' => array(),
                                     'Engagements' => array(),
-                                    'Ressources Humaines' => array("offres", "candidature"),
+                                    'Ressources Humaines' => array("valeurs", "offres", "candidature"),
                                     'Contact' => array()));
                   
 

@@ -1513,7 +1513,8 @@ font-weight: 500;
     margin-bottom: 20px;
 }
 #offres .engagement-page-title hr,
-#candidature .engagement-page-title hr{
+#candidature .engagement-page-title hr, 
+#valeurs .engagement-page-title hr {
     background-color: #5B87A3;
     height: 1px;
 }
