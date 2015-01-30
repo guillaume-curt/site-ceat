@@ -6,7 +6,7 @@
 session_start();
 //Header("Cache-Control: must-revalidate");
 error_reporting(-1);
-ini_set('display_errors', '0');
+ini_set('display_errors', '1');
 setlocale (LC_ALL, 'fr_FR');
 
 
@@ -29,6 +29,16 @@ $smarty->assign('lang', 'fr');
 $smarty->assign('params', $params);
 $smarty->assign('site_url', 'http://'.$_SERVER['HTTP_HOST'].$root);
 $smarty->assign('template_url', 'http://'.$_SERVER['HTTP_HOST'].$root.'templates');
+
+
+$smarty->assign('navItems', array(  'Accueil'=> array(),
+                                    'Informations' => array(),
+                                    'Activités' => array(),
+                                    'Engagements' => array(),
+                                    'Ressources Humaines' => array("offres", "candidature"),
+                                    'Contact' => array()));
+                  
+
 
 
 $url = '';

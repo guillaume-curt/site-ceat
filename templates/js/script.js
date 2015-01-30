@@ -73,7 +73,8 @@ $(document).ready(function(){
         bouton : ".bouton-plus",
         detail : ".flop",
         init: function() {
-            $(slideToggle.bouton).click(function () {
+            $(slideToggle.bouton).click(function (e) {
+                e.preventDefault();
                 $(this).parent().parent().next(slideToggle.detail).slideToggle();
             });
         }

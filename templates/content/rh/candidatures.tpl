@@ -47,9 +47,9 @@
                         <div class="col-md-4 col-xs-6 date-depot">
                             <p>Il y a 2 jours</p>
                         </div>
-                        <button class="bouton-plus bouton-plus1">
+                        <a href="#" class="bouton-plus bouton-plus1">
                             <img src="{$template_url}/img/plus.png" id="plus"> 
-                        </button>
+                        </a>
                     </div>            
                 </div>
                 <div class="col-md-12 col-sm-12 col-xs-12 flop">
@@ -79,9 +79,9 @@
                         <div class="col-md-4 col-xs-6 date-depot">
                             <p>Il y a 2 jours</p>
                         </div>
-                        <button class="bouton-plus bouton-plus2">
+                        <a href="#" class="bouton-plus bouton-plus2">
                             <img src="{$template_url}/img/plus.png" id="plus"> 
-                        </button>
+                        </a>
                     </div>            
                 </div>
                 <div class="col-md-12 col-sm-12 col-xs-12 flop flop-bleu flop2">
@@ -111,9 +111,9 @@
                         <div class="col-md-4 col-xs-6 date-depot">
                             <p>Il y a 2 jours</p>
                         </div>
-                        <button class="bouton-plus bouton-plus3">
+                        <a href="#" class="bouton-plus bouton-plus3">
                             <img src="{$template_url}/img/plus.png" id="plus"> 
-                        </button>
+                        </a>
                     </div>            
                 </div>
                 <div class="col-md-12 col-sm-12 col-xs-12 flop flop3">
@@ -143,9 +143,9 @@
                         <div class="col-md-4 col-xs-6 date-depot">
                             <p>Il y a 2 jours</p>
                         </div>
-                        <button class="bouton-plus bouton-plus4">
+                        <a href="#" class="bouton-plus bouton-plus4">
                             <img src="{$template_url}/img/plus.png" id="plus"> 
-                        </button>
+                        </a>
                     </div>            
                 </div>
                 <div class="col-md-12 col-sm-12 col-xs-12 flop flop-bleu flop4">
