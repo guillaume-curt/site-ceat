@@ -1501,23 +1501,54 @@ font-weight: 500;
     background-color: #5B87A3;
     height: 1px;
 }
-#offres #panel,#flip {
+#offres .flop,
+#offres .flip {
     padding: 5px;
-    text-align: center;
+    text-align: left;
     background-color: rgb(236, 236, 236);
     border:solid 1px black;
+    color: black;
 }
-#offres #panel {
+#offres .flip-bleu,
+#offres .flop-bleu {
+    background-color: rgb(93, 135, 161);
+    color: white;
+}
+#offres .flop {
     padding: 50px;
     display: none;
 }
-#offres #flip #plus {
-    width: 20%;
-    display: block;
-    margin-left: auto;
-    margin-top: 10px;
+#offres .flip .bouton-plus {
+    position: absolute;
+    bottom: 0;
+    right: 0; 
+    background-color: black;
 }
-
+#offres .flip .bouton-plus #plus {
+    width: 44px;
+    height: 44px;
+}
+#offres .flip .infos-postes {
+    font-size: 18px;
+    font-weight: 800;
+}
+#offres .flip .poste {
+    font-size: 30px;
+    font-weight: 400;
+}
+#offres .flip .poste p {
+    margin-top: 18px;
+}
+#offres .flip .contrat {
+    font-size: 20px;
+    font-weight: 400;
+}
+#offres .flip .contrat p {
+    margin-top: 18px;
+}
+#offres .flip .date-depot {
+    font-size: 17px;
+}
 
 #time-h #timeline {
     width: 800px;

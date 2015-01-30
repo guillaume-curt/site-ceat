@@ -14,11 +14,9 @@ $(document).ready(function(){
       });     
     }
     
-    if(currentPage=="rh") {
+    if(currentPage=="ressources-humaines") {
         $(function(){
-          $("#flip").click(function(){
-            $("#panel").slideToggle("slow");
-          });
+            slideToggle.init();
         });     
     }
 
@@ -71,4 +69,17 @@ $(document).ready(function(){
         }
     };
     
+    var slideToggle = {
+        bouton : ".bouton-plus",
+        detail : ".flop",
+        init: function() {
+            $(slideToggle.bouton).click(function () {
+                $(this).parent().parent().next(slideToggle.detail).slideToggle();
+            });
+        }
+    }; 
 });
+
+
+
+
