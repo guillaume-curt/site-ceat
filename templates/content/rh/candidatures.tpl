@@ -24,7 +24,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 flip">
                     <div class="row">
@@ -57,7 +56,6 @@
                    Hello world!
                 </div>            
             </div>
-            
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 flip flip-bleu">
                     <div class="row">
@@ -90,7 +88,6 @@
                    Hello world!
                 </div>            
             </div>
-            
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 flip">
                     <div class="row">
@@ -123,7 +120,6 @@
                    Hello world!
                 </div>            
             </div>
-            
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 flip flip-bleu">
                     <div class="row">
@@ -159,7 +155,4 @@
         </div> 
     </div>        
     <!-- end:offres -->
-
-                          
-                                            
 {strip}

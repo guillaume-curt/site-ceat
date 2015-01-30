@@ -1497,7 +1497,8 @@ font-weight: 500;
     font-weight: 500;
     margin-bottom: 20px;
 }
-#offres .engagement-page-title hr {
+#offres .engagement-page-title hr,
+#candidature .engagement-page-title hr{
     background-color: #5B87A3;
     height: 1px;
 }
@@ -1549,6 +1550,10 @@ font-weight: 500;
 #offres .flip .date-depot {
     font-size: 17px;
 }
+#candidature textarea.form-control {
+    max-width: 100%;
+}
+
 
 #time-h #timeline {
     width: 800px;

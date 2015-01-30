@@ -28,7 +28,6 @@
                 <input type="text" class="form-control input-lg" id="phone" placeholder="T&eacute;l&eacute;phone: " required>
                 <span class="form-focus-icon focus-icon-phone"></span>
               </div>
-
               <div class="form-group">
                 <label for="motif" class="sr-only">Motif</label>
                 <select class="form-control" id="motif" >
@@ -38,7 +37,6 @@
                   <option>Emplois et carrières</option>
                 </select>
               </div>
-
               <div class="form-group">
                 <label for="message" class="sr-only">Message</label>
                 <textarea class="form-control input-lg" id="message" placeholder="Message: " rows="3" required></textarea>
@@ -47,12 +45,9 @@
               <button type="submit" class="btn btn-lucky btn-lg"><i class="fa fa-envelope-o"></i> Envoyer</button>
             </form>
           </div>
-
-    <div class="col-md-6 col-sm-12" id="batiment">
-        <img src="{$template_url}/img/batiment.png" class="img-responsive">
-    </div>
-
-
+            <div class="col-md-6 col-sm-12" id="batiment">
+                <img src="{$template_url}/img/batiment.png" class="img-responsive">
+            </div>
         </div>
       </div>
     </div>
