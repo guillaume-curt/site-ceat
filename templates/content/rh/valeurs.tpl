@@ -18,7 +18,14 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="engagement-page-title">
-                   <h2>Nos valeurs</h2>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h2>Nos valeurs</h2>
+                        </div>
+                        <div class="col-md-2">
+                            <img src="{$template_url}/img/mains.png" class="img-responsive">
+                        </div>
+                    </div>                   
                    <hr>
                 </div>
             </div>
@@ -37,4 +44,5 @@
         </div>
     </div>
 </div>
+<!-- end:valeurs -->
 {/strip}

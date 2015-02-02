@@ -11,6 +11,7 @@
 {include file="content/rh/valeurs.tpl"}
 {include file="content/rh/candidatures.tpl"}
 {include file="content/rh/offres.tpl"}
+{include file="content/rh/evolution.tpl"}
 
 
 {include file="common/copyright-mobile.tpl"}
